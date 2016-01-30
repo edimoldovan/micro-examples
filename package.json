@@ -1,0 +1,24 @@
+{
+  "name": "micro-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sleep.js",
+  "dependencies": {
+    "micro": "^1.0.0",
+    "then-sleep": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edimoldovan/micro-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edimoldovan/micro-examples/issues"
+  },
+  "homepage": "https://github.com/edimoldovan/micro-examples#readme"
+}
