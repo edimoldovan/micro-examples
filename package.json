@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "micro app.js"
+    "start": "micro app.js -p 8000"
   },
   "repository": {
     "type": "git",
